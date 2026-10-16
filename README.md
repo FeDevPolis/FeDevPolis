@@ -37,17 +37,19 @@ Real-time server monitoring dashboard with REST API, MongoDB Atlas, Docker and G
 
 ### 🎓 Education & Certifications
 
-* **Strategic Information Systems (SIS)** — Universidad Nacional de Pilar *(In Progress)*
+* **Strategic Information Systems** — Universidad Nacional de Pilar *(In Progress)*
 * **Biotechnology** — Universidad Nacional de Pilar *(In Progress)*
 * **Qiskit Advocate** — IBM Quantum
-* **Technical Degree in Game Development** — UTN *(GPA 9/10)*
+* **Game Development** — UTN *(GPA 9/10)*
 
 ---
 
 ## 🧑‍🏫 Experience
 
+- **Professor** at INEDU — Python Backend Track (2026)
 - **Tutor** at Coderhouse — Python and Game Development courses (2022-2024)
 - **Professor** at IADES — Programming I and Programming Workshop II (2024)
+- **Records & Administrative Supervisor** at Municipality of General Pueyrredón (2006–2022)
 
 ---
 
@@ -55,4 +57,4 @@ Real-time server monitoring dashboard with REST API, MongoDB Atlas, Docker and G
 
 - 💼 LinkedIn: [linkedin.com/in/federicopoliseno](https://linkedin.com/in/federicopoliseno)
 - 🌐 Portfolio: [linktr.ee/federicopoliseno](https://linktr.ee/federicopoliseno)
-- 📧 Email: federicopoliseno@yahoo.com.ar
+- 📧 Email: fedevpolis@gmail.com
