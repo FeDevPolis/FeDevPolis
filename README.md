@@ -1,8 +1,8 @@
 ## 👋 Hi, I'm Federico I. Poliseno
 
-I'm a Python Backend Developer and Game Developer based in Pilar, Buenos Aires, Argentina. 
-I'm actively looking for my first formal role in IT, bringing hands-on experience in 
-backend development, REST APIs, containerization, cloud databases, and AI integration.
+I'm a Python Backend Developer and Game Developer based in Pilar, Buenos Aires, Argentina. I'm currently studying **Strategic Information Systems (SIS)** and **Biotechnology** at Universidad Nacional de Pilar, and I serve as an official **Qiskit Advocate**.
+
+Curious and deeply passionate about **Quantum Computing** and **Game Development**, I combine software engineering, scientific background, and creative problem-solving.
 
 ---
 
@@ -38,10 +38,12 @@ Real-time server monitoring dashboard with REST API, MongoDB Atlas, Docker and G
 
 ---
 
-## 🎓 Education
+### 🎓 Education & Certifications
 
-- **Bachelor of Science in Computer Science** — Universidad Nacional de Pilar *(In Progress)*  
-- **Technical Degree in Game Development** — UTN *(One semester, GPA 9/10)*  
+* **Strategic Information Systems (SIS)** — Universidad Nacional de Pilar *(In Progress)*
+* **Biotechnology** — Universidad Nacional de Pilar *(In Progress)*
+* **Qiskit Advocate** — IBM Quantum
+* **Technical Degree in Game Development** — UTN *(GPA 9/10)*
 
 ---
 
