@@ -1,30 +1,27 @@
 ## 👋 Hi, I'm Federico I. Poliseno
 
-I'm a Python Backend Developer and Game Developer based in Pilar, Buenos Aires, Argentina. I'm currently studying **Strategic Information Systems (SIS)** and **Biotechnology** at Universidad Nacional de Pilar, and I serve as an official **Qiskit Advocate**.
+I'm a Software Developer and Game Developer based in Pilar, Buenos Aires, Argentina. I'm currently studying **Strategic Information Systems** and **Biotechnology** at Universidad Nacional de Pilar, and I serve as an official **Qiskit Advocate**.
 
-Curious and deeply passionate about **Quantum Computing** and **Game Development**, I combine software engineering, scientific background, and creative problem-solving.
-
----
-
-## 🚀 What I Build
-
-- **Backend Development**: REST APIs with Python, Django and Django REST Framework
-- **Databases**: MongoDB Atlas (NoSQL), SQLite
-- **DevOps**: Docker, docker-compose, Linux containers, production deploy with Gunicorn and Render
-- **AI Integration**: Gemini API for automated infrastructure analysis
-- **Frontend**: JavaScript (Vanilla), HTML5, CSS3 — fetch API and DOM manipulation
-- **Game Development**: Unity, C#, Godot — participated in Game Jams with published projects
+Curious and deeply passionate about **Cloud Architectures**, **Quantum Computing** and **Game Development**, I combine software engineering, scientific background, and creative problem-solving.
 
 ---
 
-## 🔧 Tech Stack
+### 💡 Core Capabilities
 
-**Languages:** Python · JavaScript · C# · HTML · CSS  
-**Frameworks:** Django · Django REST Framework  
-**Databases:** MongoDB Atlas  
-**DevOps:** Docker · docker-compose · Linux · Gunicorn · Whitenoise · Render  
-**AI:** Gemini API · Prompt Engineering  
-**Tools:** Git · GitHub · Blender · SketchUp · Unity  
+* **Backend & API Architecture:** Designing RESTful services with Python, Django, and databases (MongoDB, SQLite).
+* **Cloud & DevOps:** Containerizing apps with Docker, deploying to production, and exploring AWS Cloud solutions.
+* **Quantum & AI Workflows:** Building quantum algorithms with Qiskit and integrating AI APIs for automated systems.
+* **Game Development:** Crafting games and mechanics using Unity (C#) and Godot.
+
+---
+
+### 🛠️ Tech Stack
+
+* **Languages:** Python · C# · JavaScript · HTML/CSS
+* **Cloud & DevOps:** AWS · Docker · docker-compose · Linux · Render · Gunicorn
+* **Quantum & AI:** Qiskit SDK · Gemini API
+* **Frameworks & DBs:** Django · DRF · MongoDB Atlas · SQLite
+* **Game Dev & Tools:** Unity · Godot · Git · GitHub · Blender
 
 ---
 
